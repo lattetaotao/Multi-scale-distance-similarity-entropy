@@ -3,7 +3,7 @@ Here are the Matlab codes used in ''Multi-scale distance similarity entropy: a n
 
 
 This repository contains code developed during my PhD research.  
-⚠️ Please note: The core implementation is part of ongoing research work and will not be made publicly available at this stage.  
+Please note: The core implementation is part of ongoing research work and will not be made publicly available at this stage.  
 
  Full release will be considered after related publications and research projects are completed.  
 
